@@ -1,6 +1,6 @@
 # geospatial_point_analysis
 **
-Overview**
+**Overview****
 
 This script demonstrates data ingestion, cleaning, geospatial validation, unsupervised clustering, and visualization using Python. The workflow validates whether geographic points fall within a polygon boundary (e.g., city limits) and applies DBSCAN clustering to identify spatial groupings.
 
